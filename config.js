@@ -59,14 +59,14 @@ global.herokuapi = process.env.HEROKU_API_KEY
 global.herokuapp = process.env.HEROKU_APP_NAME
 // Other
 let fake = process.env.OWNER_NUMBER
-global.owner = ['94775200935',`${fake}`]
+global.owner = ['94704274987',`${fake}`]
 global.ownername = process.env.OWNER_NAME
 global.ownernomer = process.env.OWNER_NUMBER
-global.premium = ['94775200935',`${fake}`]
+global.premium = ['94704274987',`${fake}`]
 global.packname = process.env.PACK_NAME
 global.author = process.env.STICKER_AUTHOR_NAME
 global.darkwinzocontact = '9'+'4'+'7'+'7'+'5'+'2'+'0'+'0'+'9'+'3'+'5'
-global.botname = 'Q'+'ᴜ'+'ᴇ'+'ᴇ'+'ɴ'+'-'+'ᴍ'+'ᴅ'
+global.botname = 'Ｓ'+'Ｌ'+'Ｓ'+'Ａ'+'Ｃ'+'Ｈ'+'Ｉ'+'Ｈ'
 global.sessionName = 's'+'e'+'s'+'s'+'i'+'o'+'n'+'.'+'q'+'u'+'e'+'e'+'n'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
